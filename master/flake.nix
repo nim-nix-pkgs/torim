@@ -9,7 +9,7 @@
   
   inputs.src-torim-master.flake = false;
   inputs.src-torim-master.owner = "KittyTechnoProgrammer";
-  inputs.src-torim-master.ref   = "refs/heads/master";
+  inputs.src-torim-master.ref   = "master";
   inputs.src-torim-master.repo  = "torim";
   inputs.src-torim-master.type  = "github";
   
