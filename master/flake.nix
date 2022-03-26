@@ -11,6 +11,7 @@
   inputs.src-torim-master.ref   = "refs/heads/master";
   inputs.src-torim-master.owner = "KittyTechnoProgrammer";
   inputs.src-torim-master.repo  = "torim";
+  inputs.src-torim-master.dir   = "";
   inputs.src-torim-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
